@@ -1,0 +1,84 @@
+Source: https://browserstack.com/test-on-the-right-mobile-devices,,,
+,,,
+List of devices for start-ups,,,
+Use this list when you have upto 15000 unique visitors a month,,,
+Device name,Device Type,OS ,OS version
+Apple iPhone SE,Mobile,iOS,9
+Apple iPhone 6s,Mobile,iOS,9
+Google Nexus 6,Mobile,Android,5
+Samsung Galaxy S5,Mobile,Android,4.4
+Apple iPad Air 2,Tablet,iOS,8
+Google Nexus 7,Tablet,Android,4.4
+,,,
+,,,
+List of devices for growing businesses,,,
+Use this list when you have between 15000 and 300000 unique visitors a month,,,
+Device name,Device Type,OS ,OS version
+Apple iPhone SE,Mobile,iOS,9
+Apple iPhone 6s,Mobile,iOS,9
+Google Nexus 6,Mobile,Android,5
+Samsung Galaxy S5,Mobile,Android,4.4
+Apple iPad Air 2,Tablet,iOS,8
+Google Nexus 7,Tablet,Android,4.4
+Nokia Lumia 520,Mobile,Windows,8.1
+Google Nexus 4,Mobile,Android,4.2
+Apple iPhone 6 Plus,Mobile,iOS,8
+Samsung Galaxy Note 3,Mobile,Android,4.3
+Google Nexus 5X,Mobile,Android,7
+Samsung Galaxy S7,Mobile,Android,6
+Amazon Kindle Fire HDX 8.9,Tablet,Fire OS,4
+Apple iPad Mini 2,Tablet,iOS,7
+,,,
+,,,
+List of devices for enterprises,,,
+Use this list when you have more than 300000 unique visitors every month,,,
+Device name,Device Type,OS ,OS version
+Apple iPhone SE,Mobile,iOS,9
+Apple iPhone 6s,Mobile,iOS,9
+Google Nexus 6,Mobile,Android,5
+Samsung Galaxy S5,Mobile,Android,4.4
+Apple iPad Air 2,Tablet,iOS,8
+Google Nexus 7,Tablet,Android,4.4
+Nokia Lumia 520,Mobile,Windows,8.1
+Google Nexus 4,Mobile,Android,4.2
+Apple iPhone 6 Plus,Mobile,iOS,8
+Samsung Galaxy Note 3,Mobile,Android,4.3
+Google Nexus 5X,Mobile,Android,7
+Samsung Galaxy S7,Mobile,Android,6
+Amazon Kindle Fire HDX 8.9,Tablet,Fire OS,4
+Apple iPad Mini 2,Tablet,iOS,7
+Sony Xperia Z,Mobile,Android,4.1
+Apple iPhone 4s,Mobile,iOS,5
+Samsung Galaxy S4,Mobile,Android,4.4
+Motorola G (2nd Gen),Mobile,Android,5
+HTC One X,Mobile,Android,4
+Blackberry Z10,Mobile,Blackberry OS,10
+Samsung Galaxy Note 4,Mobile,Android,4.4
+Google Nexus 9,Tablet,Android,5
+Samsung Galaxy Note 10.1,Tablet,Android,4
+Windows Surface RT 2,Tablet,Windows,8.1
+,,,
+,,,
+Additional devices specific to Geography for start-ups,,,
+Country,Device 1,Device 2,
+India,Motorola Moto G - Android 5.0,Micromax A - 106 Unite 2 - Android 4.4,
+China,Xiaomi MI 2 - Android 4.1,-,
+Japan,Sony Xperia Z3 - Android 4.4,-,
+South Korea,LG G3 - Android 4.4,-,
+Brazil,Motorola Moto G - Android 5.0,-,
+Mexico,Motorola Moto G - Android 5.0,-,
+South Africa,Lumia 520 - Windows 8.1,-,
+,,,
+,,,
+Additional devices specific to Geography for growing businesses and enterprises,,,
+Country,Device 1,Device 2,Device 3
+India,Motorola Moto G - Android 5.0,Micromax A - 106 Unite 2 - Android 4.4,MiPad - Android 4.4
+China,Xiaomi MI 2 - Android 4.1,MiPad - Android 4.4,-
+Japan,Sony Xperia Z3 - Android 4.4,Sony Xperia Z - Android 4.1,-
+South Korea,LG G3 - Android 4.4,-,-
+Brazil,Motorola Moto G - Android 5.0,-,-
+Mexico,Motorola Moto G - Android 5.0,LG G Pro Lite - Android 4.1,-
+South Africa,Lumia 520 - Windows 8.1,Alcatel Vodafone Smart Tab - Android 3.1,-
+Singapore,Samsung Note 4 - Android 4.4,-,-
+,,,
+Source: https://browserstack.com/test-on-the-right-mobile-devices,,,
